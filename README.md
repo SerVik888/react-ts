@@ -11,14 +11,15 @@
 ## Краткое описание проекта
 
 В этом проекте есть примеры типизации
--- props
--- components
--- hooks
--- events(MouseEvent, DragEvents, ChangeEvent)
--- react-router-dom
+
+- props
+- components
+- hooks
+- events(MouseEvent, DragEvents, ChangeEvent)
+- react-router-dom
 
 ## Список используемых библиотек
 
--- React
--- react-router-dom
--- axios
+- React
+- react-router-dom
+- axios
