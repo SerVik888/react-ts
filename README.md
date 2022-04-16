@@ -16,7 +16,6 @@
 - components
 - hooks
 - events(MouseEvent, DragEvents, ChangeEvent)
-- react-router-dom
 
 ## Список используемых библиотек
 
